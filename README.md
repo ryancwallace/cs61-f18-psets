@@ -6,3 +6,5 @@ Programming and Machine Organization.
 
 For more information, see the course wiki:
 https://cs61.seas.harvard.edu/
+
+Ryan Wallace
